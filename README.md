@@ -1,6 +1,1 @@
-
-
-<!---
-PedroTelini-code/PedroTelini-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Pedro, an Information Systems student at Uni-FACEF with a strong interest in software development. My current main focus is Java, and I use this space to document my projects, studies, and evolution as a developer.
